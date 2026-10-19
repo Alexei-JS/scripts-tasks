@@ -1,0 +1,5 @@
+input 100
+input 101
+add 100 101
+output 100
+exit
