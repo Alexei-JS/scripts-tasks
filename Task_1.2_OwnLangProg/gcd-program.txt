@@ -1,0 +1,10 @@
+input 100
+input 101
+writedata 0 102
+min 100 101 103
+sub 103 1
+isGeneralDiv 100 101 103 102
+goto 102 11
+ifZero 100 101 103
+output 103
+exit

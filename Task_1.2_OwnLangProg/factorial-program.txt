@@ -1,0 +1,6 @@
+input 100
+writedata 1 101
+mul 101 100
+sub 100 1
+goto 100 5
+output 101
